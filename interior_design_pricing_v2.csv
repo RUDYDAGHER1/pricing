@@ -1,37 +1,37 @@
-Category,Option,Price (AED)
-Bedrooms,Studio,0
-Bedrooms,1 Bedroom,10000
-Bedrooms,2 Bedrooms,20000
-Bedrooms,3 Bedrooms,30000
-Bedrooms,4 Bedrooms,40000
-Bedrooms,5 Bedrooms,50000
-Bedrooms,6 Bedrooms,60000
-Dining Section,No Dining,0
-Dining Section,2 Chairs,800
-Dining Section,4 Chairs,1500
-Dining Section,6 Chairs,4000
-Dining Section,8 Chairs,8000
-Living Room,None,0
-Living Room,Small,2500
-Living Room,Medium,5000
-Living Room,Large,8000
-Bathrooms,0 Bathroom,0
-Bathrooms,1 Bathroom,500
-Bathrooms,2 Bathroom,1000
-Bathrooms,3 Bathroom,1500
-Bathrooms,4 Bathroom,2000
-Bathrooms,5 Bathroom,2500
-Appliances,TV,300
-Appliances,Iron,50
-Appliances,Iron Board,50
-Appliances,Kettle,50
-Appliances,Microwave,150
-Appliances,Washer,400
-Appliances,Dryer,400
-Appliances,Washer/Dryer,600
-Appliances,1-Door Refrigerator,500
-Appliances,Double-Door Refrigerator,1000
-Appliances,Dishwasher,400
-Appliances,Cutleries,100
-Appliances,Plates,100
-Appliances,Pans,150
+Category,Option,Price (AED),Enabled (yes/no)
+Bedrooms,Studio,10000,
+Bedrooms,1 Bedroom,20000,
+Bedrooms,2 Bedrooms,30000,
+Bedrooms,3 Bedrooms,40000,
+Bedrooms,4 Bedrooms,50000,
+Bedrooms,5 Bedrooms,60000,
+Bedrooms,6 Bedrooms,70000,
+Dining Section,No Dining,0,
+Dining Section,2 Chairs,800,
+Dining Section,4 Chairs,1500,
+Dining Section,6 Chairs,4000,
+Dining Section,8 Chairs,8000,
+Living Room,None,0,
+Living Room,Small,2500,
+Living Room,Medium,5000,
+Living Room,Large,8000,
+Bathrooms,0 Bathroom,0,
+Bathrooms,1 Bathroom,500,
+Bathrooms,2 Bathroom,1000,
+Bathrooms,3 Bathroom,1500,
+Bathrooms,4 Bathroom,2000,
+Bathrooms,5 Bathroom,2500,
+Appliances,TV,300,yes
+Appliances,Iron,50,yes
+Appliances,Iron Board,50,yes
+Appliances,Kettle,50,yes
+Appliances,Microwave,150,yes
+Appliances,Washer,400,yes
+Appliances,Dryer,400,no
+Appliances,Washer/Dryer,600,no
+Appliances,1-Door Refrigerator,500,yes
+Appliances,Double-Door Refrigerator,1000,no
+Appliances,Dishwasher,400,yes
+Appliances,Cutleries,100,yes
+Appliances,Plates,100,yes
+Appliances,Pans,150,yes
